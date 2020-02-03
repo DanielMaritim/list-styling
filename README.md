@@ -1,0 +1,2 @@
+# list-styling
+a simple repo about css list styling.It is used to set up values of different list properties.There are two types of lists ordered list which are marked with numbers and letters  and unordered list which are marked with bullets but can be styled further with css.One can also use images.ie list-style-type,list-style-image(for image use).The LIST-STYLE-TYPE property defines which type of list to use while setting of each maeker on the list
